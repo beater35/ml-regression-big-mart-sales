@@ -69,7 +69,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost
 ### Running the Code
 ```python
 # Clone the repository
-git clone https://github.com/beater35/ml-regression-big-mart-sales
+git clone https://github.com/beater35/ml-regression-big-mart-sales.git
 cd bigmart-sales-prediction
 
 # Load and run the Jupyter notebook
